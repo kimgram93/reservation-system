@@ -107,7 +107,7 @@ export default function Home() {
           </div>
 
           <Link
-            href="/飲み部屋予約"
+            href="/nomikai-yoyaku"
             style={{
               display: "inline-block",
               padding: "13px 18px",
@@ -177,7 +177,7 @@ export default function Home() {
               <p>まだ飲み会が登録されていません。</p>
 
               <Link
-                href="/飲み部屋予約"
+                href="/nomikai-yoyaku"
                 style={{
                   color: "#2563eb",
                   fontWeight: "700",
