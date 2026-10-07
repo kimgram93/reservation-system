@@ -14,6 +14,12 @@ const availableTags = [
   "金管",
   "打楽器",
   "参加歓迎",
+  "わいわい",
+  "ゲーム",
+  "しっぽり",
+  "雑談",
+  "大人数",
+  "少人数",
 ];
 
 export default function RegisterPage() {
@@ -114,7 +120,7 @@ export default function RegisterPage() {
       >
         {/* 一覧に戻る */}
         <Link
-          href="/"
+          href="/nomikai-list"
           style={{
             display: "inline-block",
             marginBottom: "20px",
